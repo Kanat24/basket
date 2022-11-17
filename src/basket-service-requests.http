@@ -1,0 +1,6 @@
+### Добавить
+GET http://localhost:8080/store/order/add?id=1,2,3,4
+
+
+### Получить id
+GET http://localhost:8080/store/order/get
